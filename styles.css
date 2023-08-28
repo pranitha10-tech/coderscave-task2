@@ -1,0 +1,133 @@
+
+.abc{
+    color: rgb(8, 8, 8);
+    top: 13%;
+    position: absolute;
+    left: 5%;
+    font-stretch: extra-condensed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style :normal;
+    font-size: xx-large;
+    height: 80px;
+    width: 400px;
+}
+.main{
+    background-color: rgb(254, 219, 181);
+    height: 730px;
+    width: 1450px;
+}
+.abc p{
+    font-size: large;
+}
+.buttons{
+    display: flex; 
+    top: 52%;
+    left: 5%;
+    position: absolute; 
+    gap: 25px;
+}
+.get{
+    background-color: rgb(255, 42, 0); 
+    color: white; 
+    padding : 10px 25px; 
+    font-size: large;
+    border: none;
+    border-radius:10px;
+} 
+.learn
+{
+    color: black;
+    padding : 12px 25px; 
+    font-size: large;
+    border: none;
+    border-radius:10px;
+}
+.imgs{
+    height: 55px;
+    width: 55px;
+}
+.imgs:hover{
+    height: 50px;
+    width:50px;
+}
+.text{
+    top: 2%;
+    position: absolute; 
+    display: flex; 
+    left: 5%;
+    height: 60px;
+    width: 120px;
+} 
+.all{
+    position: absolute;
+    display:flex;
+    left: 40%; 
+    top: 2%;
+    gap: 30px;
+} 
+.Courses{
+    padding: 10px 14px;
+    border-radius: 10px; 
+    border: none; 
+    color: black; 
+    font-size: medium;
+}
+.Courses:hover{
+    border: 2px solid rgb(224, 221, 221); 
+    background-color: rgb(37, 35, 35);
+    color: white;
+}
+.bca{
+    background-color: rgb(255, 42, 0); 
+    color: white;
+    padding : 12px 18px; 
+    font-size: large;
+    border: none;
+    border-radius:10px;
+    top: 2%;
+    right: 9%; 
+    position: absolute;
+}
+.bca:hover{
+    background-color: rgb(249, 117, 2);  
+    border: 2px solid orangered;
+    color: white;
+}
+.boy{
+    height: 540px;
+    width: 540px;
+    position: absolute; 
+    left: 55%;
+    top: 12%;
+    border-radius: 50%;
+} 
+.boy:hover{
+    height: 550px;
+    width: 550px;;
+}
+.down{
+    bottom: 0%;
+    height: 180px;
+    width: 1450px;
+    position: absolute;
+}
+.fox
+{
+    height: 35px;
+    width: 35px;
+    
+}
+.child{
+    position: absolute;
+    display: flex;
+    bottom: 5%;
+    gap: 15px;
+    left:5%;
+    
+}
+.bottom{
+    bottom: 0%;
+    height: 180px;
+    width: 1450px;
+    position: absolute;
+}
